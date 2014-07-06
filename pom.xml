@@ -25,11 +25,6 @@
 			<version>15.0</version>
 		</dependency>
 		<dependency>
-			<groupId>com.noodlesandwich</groupId>
-			<artifactId>rekord</artifactId>
-			<version>0.2</version>
-		</dependency>
-		<dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
